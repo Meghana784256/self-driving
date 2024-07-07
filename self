@@ -2,7 +2,7 @@ import cv2
 import numpy as np
 
 # Read the video file
-vidCap = cv2.VideoCapture("C:\\Users\\sneha\\Downloads\\solidWhiteRight.mp4")
+vidCap = cv2.VideoCapture("C:\\Users\\megha\\OneDrive\\Desktop\\self video.mp4")
 
 while True:
     success, frame = vidCap.read()
